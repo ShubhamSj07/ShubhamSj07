@@ -17,6 +17,7 @@
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Mongodb Badge](https://img.shields.io/badge/-Mongodb-fff?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)
 [![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white)](#)
 
 </div>
 
@@ -49,11 +50,12 @@
 
 <div align="center">
 
-### Github Stats
+### GitHub Stats
+![Shubham Jadhav Github Stats](https://github-readme-stats.vercel.app/api?username=ShubhamSj07&custom_title=SJ%27s%20GitHub%20Stats%20&show_icons=true&theme=onedark)
 
-![SJ's github stats](https://github-readme-stats.vercel.app/api?username=ShubhamSj07&custom_title=SJ%27s%20GitHub%20Stats%20&count_private=true&theme=onedark )
+### GitHub Contributions
+![Shubham Jadhav GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=ShubhamSj07)
 
-![SJ's github stats](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSj07&theme=dracula)
 <br/>
 <br/>
 
