@@ -1,4 +1,4 @@
-<div align="center"><img width="800" height="420" src="https://res.cloudinary.com/sjdev/image/upload/v1618734904/Git-Readme/banner_she4lc.gif" ></div>
+<div align="center"><img src="https://res.cloudinary.com/sjdev/image/upload/v1618734904/Git-Readme/banner_she4lc.gif" ></div>
 
 <h3 align="center">Heyy there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Shubham <span style="color:yellow;">aka SJ🤩</span> </h3>  
 <br/>
