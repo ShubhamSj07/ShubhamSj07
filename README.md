@@ -1,11 +1,11 @@
 <div align="center"><img src="https://res.cloudinary.com/sjdev/image/upload/v1618734904/Git-Readme/banner_she4lc.gif" ></div>
 
-<h3 align="center">Heyy there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Shubham <span style="color:yellow;">aka SJ🤩</span> </h3>  
+<h3 align="center">Heyy there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Shubham  </h3>  
 <br/>
 <h3 align="center" style="color:yellow;" >About Me</h3>  
  <div align="center">
  👨🏻‍🎓 Second Year IT undergrad
-<br>🤖 Android & UI/UX Enthusiast
+ <br>
 <br>⚒️ Focusing on Contributing to Open Source💜
 <br>👨‍💻 Learning new technologies & trying to become better version of myself💪
  </div>
