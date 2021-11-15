@@ -1,6 +1,6 @@
 # ![](https://res.cloudinary.com/sjdev/image/upload/v1636873972/Git-Readme/Hello_1_rpemnu.gif)[Shubham Jadhav](https://github.com/shubhamsj07) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<div align="center" ><img src="https://res.cloudinary.com/sjdev/image/upload/v1636873687/Git-Readme/ProfileBanner_bfsw8n.svg"> </div>
+<div align="center" ><img src="https://res.cloudinary.com/sjdev/image/upload/v1636978619/Git-Readme/ProfileBanner_hpurxb.png"> </div>
  <br />
  
 * I'm Shubham Jadhav👨🏻‍🎓, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune🚀 <br/>
