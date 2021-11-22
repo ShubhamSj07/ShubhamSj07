@@ -1,4 +1,4 @@
-# ![](https://res.cloudinary.com/sjdev/image/upload/v1636873972/Git-Readme/Hello_1_rpemnu.gif)[Shubham Jadhav](https://github.com/shubhamsj07) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# ![](https://res.cloudinary.com/sjdev/image/upload/v1636873972/Git-Readme/Hello_1_rpemnu.gif)[Shubham Jadhav](https://linktr.ee/shubham.jadhav) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="center" ><img src="https://res.cloudinary.com/sjdev/image/upload/v1636978619/Git-Readme/ProfileBanner_hpurxb.png"> </div>
  <br />
