@@ -3,8 +3,8 @@
 <div align="center" ><img src="https://res.cloudinary.com/sjdev/image/upload/v1636978619/Git-Readme/ProfileBanner_hpurxb.png"> </div>
  <br />
  
-* I'm Shubham Jadhav👨🏻‍🎓, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune🚀 <br/>
-* I am a full-stack web developer & UI/UX enthusiast🎨 <br/>
+* I'm **Shubham Jadhav**🧑🏻‍🎓, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune🚀 <br/>
+* I am a **full-stack web developer & UI/UX enthusiast🎨** <br/>
 * Volunteer work as Web Dev Lead @[GDSC-DYPCOE](https://github.com/orgs/DSC-DYPCOE/dashboard) & Vice President @[ITESA-DYPCOE](https://github.com/ITESA-DYPCOE)🏆🏅 <br />
 * Keen interest in DevOps⚒️ & ML domain🤖
 * Contributing to Open Source === 💜 <br/>
