@@ -34,5 +34,4 @@
 #### I'm Popular😉
 ![visitors](https://gpvc.arturio.dev/ShubhamSj07)
 
-Leave a ⭐ from [here](https://github.com/ShubhamSj07/ShubhamSj07) if you like 😁
-</p>
+
