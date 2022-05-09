@@ -3,11 +3,11 @@
 <div align="center" ><img src="https://res.cloudinary.com/sjdev/image/upload/v1636978619/Git-Readme/ProfileBanner_hpurxb.png"> </div>
  <br />
  
-* I'm **Shubham Jadhav**🧑🏻‍🎓, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune🚀 <br/>
+* I'm **Shubham Jadhav** 🧑🏻‍🎓, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune 🚀 <br/>
 * I'm working as **SDE Frontend Intern [@TAROVERSE](https://www.taroverse.com/)** (P2E Metaverse Game 🧠🎮) <br/>
-* **Full-stack web developer🌐 and UI/UX enthusiast🎨** <br/>
+* **Full-stack web developer 🌐 and UI/UX enthusiast 🎨** <br/>
 * Volunteer work as Web Dev Lead @[GDSC-DYPCOE](https://github.com/orgs/DSC-DYPCOE/dashboard), Vice President @[ITESA-DYPCOE](https://github.com/ITESA-DYPCOE) and Postman Student Leader @[Postman](https://github.com/postmanlabs) 🏆🏅 <br />
-* Keen interest in DevOps⚒️
+* Keen interest in DevOps ⚒️
 * Contributing to Open Source === 💜 <br/>
 
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
