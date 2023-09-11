@@ -1,16 +1,17 @@
 # ![](https://res.cloudinary.com/sjdev/image/upload/v1636873972/Git-Readme/Hello_1_rpemnu.gif)[Shubham Jadhav](https://shubhamjadhav.dev) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 
-<div align="center" ><img src="https://res.cloudinary.com/sjdev/image/upload/v1636978619/Git-Readme/ProfileBanner_hpurxb.png"> </div>
+![LinkedInBanner](https://github.com/ShubhamSj07/ShubhamSj07/assets/56510414/b4007d22-b127-47e0-a500-8c64d93d40c3)
  <br />
  
-* I'm **Shubham Jadhav** 🧑🏻‍🎓, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune 🚀 <br/>
-* Prev - **SDE Frontend Intern [@TAROVERSE](https://www.taroverse.com/)** (P2E Metaverse Game 🧠🎮) <br/>
+* I'm **Shubham Jadhav** 🧑🏻‍🎓, CSE graduate '23 from D.Y. Patil College of Engineering, Akurdi, Pune🚀 <br/>
+* My [Portfolio](https://shubhamjadhav.dev) ⭐
+* Prev - **SDE Frontend Intern [@TAROVERSE](https://www.taroverse.com/)** (P2E Metaverse Game 🎮) <br/>
 * **Full-stack web developer 🌐 and UI/UX enthusiast 🎨** <br/>
 * Volunteer work as Web Dev Lead @[GDSC-DYPCOE](https://github.com/orgs/DSC-DYPCOE/dashboard), Vice President @[ITESA-DYPCOE](https://github.com/ITESA-DYPCOE) and Postman Student Leader @[Postman](https://github.com/postmanlabs) 🏆🏅 <br />
 * Exploring Web 3.0 🔒 & DevOps ⚒️
 * Contributing to Open Source === 💜 <br/>
 
-<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
+<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <div align="center" >
 
 ![](https://gpvc.arturio.dev/ShubhamSj07)
