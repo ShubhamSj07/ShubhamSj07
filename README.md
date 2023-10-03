@@ -24,14 +24,12 @@
 [![Steam Badge](https://img.shields.io/badge/-Steam-152C59?style=flat&labelColor=white&logo=steam&logoColor=0275AA)](https://steamcommunity.com/id/CrazySJ/)
 
 </p>
-
 <div align="center">
-
+ 
 ### GitHub Stats
-![Shubham Jadhav Github Stats](https://github-readme-stats.vercel.app/api?username=ShubhamSj07&custom_title=SJ%27s%20GitHub%20Stats%20&show_icons=true&theme=dark&ring=FFB19A&hide_border=true&text_color=F6A085)
+![Shubham Jadhav Github Stats](https://github-readme-stats.vercel.app/api?username=ShubhamSj07&custom_title=SJ%27s%20GitHub%20Stats%20&show_icons=true&theme=dark&ring=FAAD14&hide_border=true&text_color=ffffff&bg_color=1D2125&ring_color=FAAD14&include_all_commits=true)
 
 ### GitHub Contributions
-![Shubham Jadhav GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&user=ShubhamSj07)
+![Shubham Jadhav GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dark&ring=FAAD14&hide_border=true&currStreakNum=473BF0&fire=473BF0&currStreakLabel=FAAD14&user=ShubhamSj07&background=1D2125)
 
 <br/>
-
