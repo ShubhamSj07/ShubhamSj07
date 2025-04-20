@@ -1,35 +1,52 @@
-# ![](https://res.cloudinary.com/sjdev/image/upload/v1636873972/Git-Readme/Hello_1_rpemnu.gif)[Shubham Jadhav](https://shubhamjadhav.dev) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
+# Hi there 👋, I'm **Shubham Jadhav**
 
-![LinkedInBanner](https://github.com/ShubhamSj07/ShubhamSj07/assets/56510414/b4007d22-b127-47e0-a500-8c64d93d40c3)
- <br />
- 
-* I'm **Shubham Jadhav** 🧑🏻‍🎓, CSE graduate '23 from D.Y. Patil College of Engineering, Akurdi, Pune🚀 <br/>
-* My [Portfolio](https://shubhamjadhav.dev) ⭐
-* Prev - **SDE Frontend Intern [@TAROVERSE](https://www.taroverse.com/)** (P2E Metaverse Game 🎮) <br/>
-* **Full-stack web developer 🌐 and UI/UX enthusiast 🎨** <br/>
-* Volunteer work as Web Dev Lead @[GDSC-DYPCOE](https://github.com/orgs/DSC-DYPCOE/dashboard), Vice President @[ITESA-DYPCOE](https://github.com/ITESA-DYPCOE) and Postman Student Leader @[Postman](https://github.com/postmanlabs) 🏆🏅 <br />
-* Exploring Web 3.0 🔒 & DevOps ⚒️
-* Contributing to Open Source === 💜 <br/>
+![Banner](https://github.com/ShubhamSj07/ShubhamSj07/assets/56510414/b4007d22-b127-47e0-a500-8c64d93d40c3)
 
-<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
-<div align="center" >
+👨‍💻 **Software Engineer @ Swiggy**
+> Freelancer • Realist HODL
 
-![](https://gpvc.arturio.dev/ShubhamSj07)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ShubhamSj077?style=social)](https://twitter.com/ShubhamSj077)
-[![GitHub followers](https://img.shields.io/github/followers/shubhamsj07?style=social)](https://github.com/shubhamsj07)
- 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=white&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/ShubhamSj077)](https://twitter.com/ShubhamSj077) -->
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/shubham-jadhav-77a588192/)
-[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:dev.shubhamjadhav@gmail.com)
-[![Steam Badge](https://img.shields.io/badge/-Steam-152C59?style=flat&labelColor=white&logo=steam&logoColor=0275AA)](https://steamcommunity.com/id/CrazySJ/)
+---
 
-</p>
-<div align="center">
- 
-### GitHub Stats
-![Shubham Jadhav Github Stats](https://github-readme-stats.vercel.app/api?username=ShubhamSj07&custom_title=SJ%27s%20GitHub%20Stats%20&show_icons=true&theme=dark&ring=FAAD14&hide_border=true&text_color=ffffff&bg_color=1D2125&ring_color=FAAD14&include_all_commits=true)
+## 🚀 About Me
 
-### GitHub Contributions
-![Shubham Jadhav GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dark&ring=FAAD14&hide_border=true&currStreakNum=473BF0&fire=473BF0&currStreakLabel=FAAD14&user=ShubhamSj07&background=1D2125)
+- 🎓 CSE graduate 2023 Batch, D.Y. Patil College of Engineering, Pune
+- 🌐 Transforming my creativity and knowledge into application solutions
+- 💼 With over 2+ years of experience in working with Frontend, Backend and Web3
+- ❤️ Passionate about Open‑Source contributions
 
-<br/>
+---
+
+## 🔭 What I’m Doing
+
+- 🏗️ Building and optimizing frontend systems at Swiggy
+- 🤖 Integrating AI‑powered features and automating workflows
+- 💹 Researching and investing in high‑conviction growth stocks
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: JavaScript, TypeScript, C++
+- 🎨 Frontend: React, Next.js, React Native, HTML5, CSS3, TailwindCSS, SCSS, Framer Motion, Zustand, Redux, React Query, UI Libraries
+- ⚙️ Backend: Node.js, Express.js, Fastify
+- 🗄️ Databases: MongoDB, Redis, Firebase
+- 🧪 Testing & Analytics: Unit & E2E Testing (Jest, Playwright), Analytics Tools
+- 🚀 DevOps: AWS, Docker, Git, GitHub, Monitoring & Alerts
+
+---
+
+## 📫 Connect with Me
+
+✨ Available for freelance projects — partnered with clients to build scalable web & mobile solutions.
+
+  <a href="https://www.linkedin.com/in/shubhamjadhav07/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://twitter.com/ShubhamSj077" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  
+  <a href="mailto:dev.shubhamjadhav@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
